@@ -5,8 +5,8 @@ Fiz um vídeo onde o objetivo é mostrar o significado de etarismo e suas conseq
 
 ## 🤖 Tecnologias Utilizadas
 
-Ferramenta generativa: **[Chatgpt](https://chat.openai.com)** para criação de roteiro;
-Ferramenta generativa: **[D-ID](https://www.d-id.com)** para criação do apresentador e narração do vídeo;
+- Ferramenta generativa: **[Chatgpt](https://chat.openai.com)** para criação de roteiro;
+- Ferramenta generativa: **[D-ID](https://www.d-id.com)** para criação do apresentador e narração do vídeo;
 
 ## 🧐 Processo de Criação
 Pensei em problemas que observo durante o meu cotidiano e resolvi criar um vídeo que falasse sobre para aumentar a conscientização do problema, em seguida pedi ao chatgpt para criar um roteiro e o D-ID para criar um apresentador e narração do roteiro.
